@@ -1,6 +1,8 @@
 # 💫About Me :
 Welcome to my Github
+
 My name is Nguyen Gia Bao 
+
 Study at Posts and Telecommunications Institute of Technology HCM
 
 Học và làm việc tại một nơi mới mẻ thật sự không dễ dàng gì, tuy nhiên
