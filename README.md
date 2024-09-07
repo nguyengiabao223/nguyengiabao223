@@ -2,15 +2,6 @@
 Welcome to my Github.
 My name is Nguyen Gia Bao.
 Study at Posts and Telecommunications Institute of Technology HCM.
-
-Học và làm việc tại một nơi mới mẻ thật sự không dễ dàng gì, tuy nhiên
-để có thể thành công mình cần phải vượt qua nó. Hi vọng những dự án 
-của mình sẽ góp một phần nào đó một chút động lực cho những bạn ở
-vùng quê lên TP HCM như mình!
-
-
-
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100026851790991) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nguygia_bao/?hl=en) 
 
